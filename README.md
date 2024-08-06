@@ -5,4 +5,8 @@
 
 
 
-https://github-profile-trophy.vercel.app/?username=samarthmahendra&theme=algolia
+[![trophy](https://github-profile-trophy.vercel.app/?username=samarthmahendra&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
