@@ -122,6 +122,46 @@ I skated 22.3 km in a single session!
   *Aug 2018 – Jul 2022* | **CGPA: 8.59**
 
 
+<h3 align="left">💼 Experience</h3>
+
+- **👨‍💻 Associate Software Development Engineer – Backend**  
+  *Draup · Full-time*  
+  *Aug 2022 – Nov 2023 · 1 yr 4 mos · Bangalore (Hybrid)*  
+  - Led platform modules for digital tech stack, outsourcing, and customer intelligence.  
+  - Revamped insights page for complex comparisons, boosting engagement by 40%.  
+  - Designed a dynamic query generation engine for chatbot pipelines — improved performance by 60% and cut dev time by 80%.  
+  - Migrated APIs to Elasticsearch for real-time aggregation (5× speedup).  
+  - Introduced advanced Boolean filter logic (e.g., `(a AND b) OR c`) for enhanced search.  
+  - Built subscription-based access control and enhanced platform performance (400% speedup, 50% cost reduction).  
+  - Reduced platform downtime from 4% to 1%; resolved issues with Datadog & AWS (75% faster).
+
+- **🛠 Backend Engineering Intern**  
+  *Draup · Internship*  
+  *Apr 2022 – Jul 2022 · 4 mos · Bengaluru*  
+  - Debugged API issues using Datadog.  
+  - Implemented caching for image requests to boost performance.  
+  - Created automated DB scripts to streamline data workflows.
+
+- **🔬 Research Assistant (Patent Co-Inventor)**  
+  *Dayananda Sagar College of Engineering · Part-time*  
+  *Nov 2021 – Sep 2023 · 1 yr 11 mos · Bengaluru (Hybrid)*  
+  - **Project**: *Myocardium Wall Motion & Thickness Mapping (Patent Pending)*  
+    App No: 202341086278 (India)  
+  - Developed novel image processing techniques for MRI cine scans.  
+  - Built algorithms for myocardium thickness + fibrosis mapping during cardiac cycles.  
+  - Optimized using NumPy, CuPy (GPU), multiprocessing with ThreadPoolExecutor.  
+  - Worked alongside clinicians from Sri Jayadeva Institute of Cardiovascular Sciences.
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <h3 align="left">🚀 Featured Projects</h3>
 
 - **📊 [JobStats - FANG Job Trends](https://github.com/SamarthMahendra/StealthProject)**  
@@ -198,13 +238,6 @@ I skated 22.3 km in a single session!
   <img src="https://streak-stats.demolab.com?user=samarthmahendra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
