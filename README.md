@@ -102,6 +102,26 @@ I skated 22.3 km in a single session!
 
 <!-- Add your existing icons block here -->
 
+<h3 align="left">🎓 Education</h3>
+
+- **🦁 Northeastern University, Boston, MA**  
+  *Master of Science (MS), Computer Science*  
+  *Jan 2024 – Dec 2025*  
+  **Khoury College of Computer Sciences**  
+  _Relevant Courses_:  
+  - CS 5010: Programming Design Paradigm  
+  - CS 5200: Database Management Systems  
+  - CS 5800: Algorithms  
+  - CS 6120: Natural Language Processing  
+  - CS 6140: Machine Learning  
+  - CS 5520: Mobile Application Development  
+  - CS 5500: Foundations of Software Engineering  
+
+- **🐍 Dayananda Sagar College of Engineering, Bangalore, India**  
+  *Bachelor of Engineering (BE), Computer Science*  
+  *Aug 2018 – Jul 2022* | **CGPA: 8.59**
+
+
 <h3 align="left">🚀 Featured Projects</h3>
 
 - **📊 [JobStats - FANG Job Trends](https://github.com/SamarthMahendra/StealthProject)**  
