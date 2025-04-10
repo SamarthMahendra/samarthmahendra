@@ -78,18 +78,23 @@ I skated 22.3 km in a single session on entry-level inline skates—and I now pl
 
 - **🩺 Myocardium Wall Motion Mapper (Patent Pending)**  
   Used custom image processing on cine MRI scans to analyze heart wall motion and fibrosis. Leveraged NumPy, multiprocessing, and interpolation.
-
+###
 <h3 align="left">📈 My Stats</h3>
 
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=samarthmahendra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=samarthmahendra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samarthmahendra&show_icons=true&count_private=true&theme=dracula&hide_title=false&hide_border=false" height="150" alt="stats graph" />
