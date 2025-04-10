@@ -22,11 +22,9 @@
 
 ###
 
-<h3 align="left">🎯 I’m currently working on<br>A distributed job tracking system inspired by Levels.fyi that scrapes and analyzes job postings with LLM-powered automation.<br><br>🤝 I’m looking to collaborate on<br>LLM-powered productivity tools, distributed systems, or open-source backend infrastructure.<br><br>🧠 I’m looking for help with<br>Exploring production-ready techniques for fine-tuning LLMs and improving real-time system performance at scale.<br><br>🌱 I’m currently learning<br>Advanced database systems, query optimization, and mobile app development.<br><br>💬 Ask me about<br>How I improved chatbot performance by 60%, or how I reduced platform costs with optimized APIs and dynamic query generation.<br><br>⚡ Fun fact<br>I’m an inline skater and ice hockey enthusiast who once skated over 22 km in a single session on entry-level skates</h3>
+<h2 align="left">🎯 I’m currently working on<br>A distributed job tracking system inspired by Levels.fyi that scrapes and analyzes job postings with LLM-powered automation.<br><br>🤝 I’m looking to collaborate on<br>LLM-powered productivity tools, distributed systems, or open-source backend infrastructure.<br><br>🧠 I’m looking for help with<br>Exploring production-ready techniques for fine-tuning LLMs and improving real-time system performance at scale.<br><br>🌱 I’m currently learning<br>Advanced database systems, query optimization, and mobile app development.<br><br>💬 Ask me about<br>How I improved chatbot performance by 60%, or how I reduced platform costs with optimized APIs and dynamic query generation.<br><br>⚡ Fun fact<br>I’m an inline skater and ice hockey enthusiast who once skated over 22 km in a single session on entry-level skates</h2>
 
 ###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
