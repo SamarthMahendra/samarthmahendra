@@ -104,7 +104,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/snake.svg" alt="Snake animation" />
 
 
 ###
