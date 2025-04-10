@@ -121,15 +121,6 @@ I skated 22.3 km in a single session!
   *Bachelor of Engineering (BE), Computer Science*  
   *Aug 2018 – Jul 2022* | **CGPA: 8.59**
 
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/github-contribution-grid-snake.svg" />
