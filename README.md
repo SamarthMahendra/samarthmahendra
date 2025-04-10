@@ -34,7 +34,7 @@ Advanced database systems, mobile app development, and system design for distrib
 How I improved chatbot performance by 60%, or how I optimized API costs using query partitioning and dynamic logic.<br><br>
 
 ⚡ Fun fact<br>
-I skated 22.3 km in a single session on entry-level inline skates—and I now play ice hockey too!
+I skated 22.3 km in a single session!
 </h4>
 
 <h3 align="left">🛠 Languages & Tools</h3>
