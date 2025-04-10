@@ -133,7 +133,7 @@ I skated 22.3 km in a single session!
 ###
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/samarthmahendra/samarthmahendra/output/github-contribution-grid-snake.svg" />
-
+###
 
 <h3 align="left">💼 Experience</h3>
 
