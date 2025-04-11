@@ -157,8 +157,7 @@ I skated 22.3 km in a single session!
   - Optimized using NumPy, CuPy (GPU), multiprocessing with ThreadPoolExecutor.  
   - Worked alongside clinicians from Sri Jayadeva Institute of Cardiovascular Sciences.
 ###
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samarthmahendra)](https://github.com/anuraghazra/github-readme-stats)
-###
+
 
 <h3 align="left">🚀 Featured Projects</h3>
 
