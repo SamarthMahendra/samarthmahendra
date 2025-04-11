@@ -19,7 +19,7 @@
 
 <h4 align="left">
 🎯 I’m currently working on<br>
-A distributed job tracking system (JobStats) that scrapes and analyzes job postings from 15+ sources, processing over 50,000 records daily, using Celery, Redis, Prometheus, and Puppeteer.<br><br>
+A distributed job tracking system (JobStats) that scrapes and analyzes job postings from 15+ sources, processing over 50,000 records daily, using Celery, Redis, Prometheus, and Puppeteer.<br><br>, and my personal profile website with a agent that one can talk to and schedule interview calls.
 
 🤝 I’m looking to collaborate on<br>
 LLM-powered productivity tools, scalable backend infra, or real-time systems.<br><br>
