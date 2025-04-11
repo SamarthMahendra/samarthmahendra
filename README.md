@@ -31,7 +31,7 @@ Fine-tuning LLMs for production, designing stealth scraping systems, and optimiz
 Advanced database systems, mobile app development, and system design for distributed platforms.<br><br>
 
 💬 Ask me about<br>
-How I improved chatbot performance by 60%, or how I optimized API costs using query partitioning and dynamic logic.<br><br>
+How I improved chatbot performance by 60%, or how I optimized API costs using query partitioning and dynamic Query generation.<br><br>
 
 ⚡ Fun fact<br>
 I skated 22.3 km in a single session!
