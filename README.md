@@ -227,6 +227,8 @@ I skated 22.3 km in a single session!
   Credential ID: `cm0adl6mm004lgpxn4gphel9o`  
   <sub><i>Algorithmic thinking and real-world problem solving with Python.</i></sub>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samarthmahendra)](https://github.com/anuraghazra/github-readme-stats)
+
 ###
 <h3 align="left">📈 My Stats</h3>
 
