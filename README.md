@@ -15,14 +15,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=samarthmahendra.samarthmahendra" />
 </div>
 
+
 <h1 align="center">hey there 👋</h1>
 
 <h4 align="left">
-🎯 I’m currently working on<br>
-Jobstats.fyi, a platform to visualize interview process in realtime with over 14000+ submissions and over 1500+ companies 
+My expertise include, python, c++, java in domains such as Backend, Databases,Data Intensive Systems, Low level systems, Devops, Distributed systems, 
   
-<img width="1512" height="831" alt="Screenshot 2025-10-30 at 8 04 31 pm" src="https://github.com/user-attachments/assets/7fbfa913-cb54-4f46-bf4a-efdc14f79350" />
-
 <br>
 🤝 I’m looking to collaborate on<br>
 LLM-powered productivity tools, scalable backend infra, or real-time systems.<br><br>
@@ -39,6 +37,13 @@ How I improved chatbot performance by 60%, or how I optimized API costs using qu
 ⚡ Fun fact<br>
 I skated 22.3 km in a single session!
 </h4>
+
+### 🏢 Previous Work (Draup)
+My contributions during my time at Draup live on my work GitHub:
+👉 [https://github.com/SamarthMahendra-Draup  ](https://github.com/SamarthMahendra-Draup?tab=overview&from=2023-12-01&to=2023-12-31)
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
 
 <h3 align="left">🛠 Languages & Tools</h3>
 
