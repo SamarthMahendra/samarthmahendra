@@ -185,8 +185,3 @@ My College: Github : 👉 [https://github.com/SamarthMahendraNEU  ](https://gith
 - **🩺 Myocardium Wall Motion Mapper (Patent Pending)**  
   Built a medical imaging pipeline to analyze cardiac wall motion from cine MRI scans using NumPy, multiprocessing, and interpolation.
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthmahendra&show_icons=true&count_private=true&theme=dracula&hide_title=false&hide_border=false" height="150" alt="stats graph" />
-</div>
