@@ -21,22 +21,6 @@
 <h4 align="left">
 My expertise include, python, c++, java in domains such as Backend, Databases,Data Intensive Systems, Low level systems, Devops, Distributed systems, 
   
-<br>
-🤝 I’m looking to collaborate on<br>
-LLM-powered productivity tools, scalable backend infra, or real-time systems.<br><br>
-
-🧠 I’m looking for help with<br>
-Fine-tuning LLMs for production, designing stealth scraping systems, and optimizing data-intensive systems.<br><br>
-
-🌱 I’m currently learning<br>
-Advanced database systems, mobile app development, and system design for distributed platforms.<br><br>
-
-💬 Ask me about<br>
-How I improved chatbot performance by 60%, or how I optimized API costs using query partitioning and dynamic Query generation.<br><br>
-
-⚡ Fun fact<br>
-I skated 22.3 km in a single session!
-</h4>
 
 ### 🏢 Previous Work (Draup)
 My contributions during my time at Draup live on my work GitHub:
